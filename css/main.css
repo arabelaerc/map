@@ -33,7 +33,7 @@ header{
   width: 250px;
 }
 #clickInFilter,
-.content-inside-filter-list img {
+.collapse-content-filter img {
   cursor:pointer;
   float: right;
   text-align: right;
@@ -43,7 +43,7 @@ header{
   width: 8%;
 }
 #six-headline,
-.content-inside-filter-list h6{
+.collapse-content-filter h6{
   font-size: 16px;
   margin-bottom: 0;
   margin-top: 18px;
